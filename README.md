@@ -48,12 +48,14 @@ It flattens to:
 [1 102 203 204 305 306 107 108 109 10 211 112 13]
 ```
 ## 4 Implementation Notes
+### 4.1 Compilation
+
 To compile:
 ```
 $ g++ -std=c++17 -o flatten flatten.cpp
 ```
 
-### My system
+### 4.2 My system
 
 My system is macOS HighSierra 10.13.6
 
